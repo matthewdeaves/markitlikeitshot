@@ -260,7 +260,6 @@ python manage.py clean
 ## Project Structure
 ```
 markitlikeitshot
-├── ai_dump.md
 ├── ai_dump.sh
 ├── docker-compose.yml
 ├── markitdown-service
@@ -331,7 +330,4 @@ markitlikeitshot
 │           └── TestDoc.docx
 ├── README.md
 └── run.sh
-
-24 directories, 48 files
 ```
-
